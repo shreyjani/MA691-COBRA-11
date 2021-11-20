@@ -1,4 +1,4 @@
-# Survival-prediction-using-COBRA
+# COBRA in Cause Specific Survival Prediction
 Course project for the IITG course MA691 Advanced Statistical Algorithms (2021)
 
 Team</br>
